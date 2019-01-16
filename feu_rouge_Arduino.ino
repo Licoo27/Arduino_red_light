@@ -6,6 +6,8 @@ void setup() {
   pinMode(7, INPUT);
 }
 
+toto
+
 void loop() {
   // put your main code here, to run repeatedly:
   if (digitalRead(7) == HIGH)
